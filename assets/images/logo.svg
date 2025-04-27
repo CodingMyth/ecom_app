@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="153" height="161" viewBox="0 0 153 161">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.525" y1="0.413" x2="1.133" y2="0.803" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#44c0c4"/>
+      <stop offset="1" stop-color="#007398"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.416" y1="0.376" x2="0.686" y2="0.701" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9a546"/>
+      <stop offset="1" stop-color="#ed2f24"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.448" y1="0.398" x2="0.526" y2="0.97" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ec147f"/>
+      <stop offset="1" stop-color="#5e1045"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="1.813" y1="-3.056" x2="0.338" y2="1.435" xlink:href="#linear-gradient"/>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="1.441" gradientTransform="translate(0.327) scale(0.347 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f9a546"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.842" cy="0.243" r="2.335" gradientTransform="translate(0.332) scale(0.606 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#007398"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.485" cy="0.611" r="1.33" gradientTransform="translate(-0.322) scale(1.644 1)" xlink:href="#radial-gradient-2"/>
+  </defs>
+  <g transform="translate(-129 -287)">
+    <g>
+      <g transform="translate(5673 -445)">
+        <text transform="translate(-5496 883)" fill="#07aeaf" font-size="29" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-47.371" y="0">Crafty</tspan></text>
+        <text transform="translate(-5420 883)" fill="#fe9900" font-size="29" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-28.565" y="0">Bay</tspan></text>
+      </g>
+      <g transform="translate(-1295.285 -729.51)">
+        <path d="M2214.519,1638.7c.814,4.185-1.316,6.925-3.836,8.661a6.622,6.622,0,0,1-9.3-1.9l-6.961-10.79,9.3-3.269a1.126,1.126,0,0,0,.4-1.988l-18.779-12.036a108.792,108.792,0,0,0,12.378-16.521,90.682,90.682,0,0,0,8.244-17.391Z" transform="translate(-672.064 -525.523)" fill="url(#linear-gradient)"/>
+        <path d="M1531.962,1412.48l1.937,12.5a99.714,99.714,0,0,1-20.621,33.911l-12.11-7.762a1.64,1.64,0,0,0-2.443,1.563l2.469,17.8a132.122,132.122,0,0,1-34.011,20.6,9.833,9.833,0,0,1-6.779-10.888l7.1-45.805c13.662,1.3,29.333-1.5,44.416-8.816A92.49,92.49,0,0,0,1531.962,1412.48Z" transform="translate(0 -367.03)" fill="url(#linear-gradient-2)"/>
+        <path d="M1623.38,1044.917l.083.534a92.493,92.493,0,0,1-20.047,13.106c-15.083,7.317-30.753,10.117-44.415,8.816l3.48-22.456a4.835,4.835,0,0,1,4.778-4.094h9.9c.639-13.6,7.458-24.313,15.776-24.313s15.137,10.708,15.776,24.313h9.9A4.836,4.836,0,0,1,1623.38,1044.917Zm-42.553-4.094h24.207a37.353,37.353,0,0,0-1.078-7.285,27.593,27.593,0,0,0-2.981-7.408,14.959,14.959,0,0,0-4-4.547,6.53,6.53,0,0,0-8.089,0,14.969,14.969,0,0,0-4,4.547,27.573,27.573,0,0,0-2.981,7.408,37.307,37.307,0,0,0-1.078,7.285Z" transform="translate(-91.5)" fill="url(#linear-gradient-3)"/>
+        <path d="M1602.964,2222.659a3,3,0,0,1-2.521,4.627h-42.859a9.85,9.85,0,0,1-2.934-.444,132.122,132.122,0,0,0,34.011-20.6l2.572,18.538a1.125,1.125,0,0,0,1.97.471l6.865-7.078,2.9,4.488Z" transform="translate(-87.469 -1102.776)" fill="url(#linear-gradient-4)"/>
+      </g>
+    </g>
+  </g>
+</svg>
