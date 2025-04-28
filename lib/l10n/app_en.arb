@@ -1,6 +1,8 @@
 {
-  "helloWorld": "Hello World!",
-  "@helloWorld": {
-    "description": "The conventional newborn programmer greeting"
-  }
+  "version": "Version",
+  "welcomeBack": "Welcome Back",
+  "enteryouremailandpassword": "Enter your email and password",
+  "email": "Email",
+  "password": "Password",
+  "singin": "Sign In"
 }

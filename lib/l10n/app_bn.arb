@@ -1,6 +1,8 @@
 {
-  "helloWorld": "হ্যালো বিশ্ব !",
-  "@helloWorld": {
-    "description": "The  greeting"
-  }
+  "version": "ভার্সন",
+  "welcomeBack": "আবার স্বাগতম",
+  "enteryouremailandpassword": "আপনার ইমেইল এবং পাসওয়ার্ড লিখুন",
+  "email": "ইমেইল",
+  "password": "পাসওয়ার্ড",
+  "singin": "সাইন ইন"
 }

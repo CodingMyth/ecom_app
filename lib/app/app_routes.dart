@@ -1,3 +1,4 @@
+import 'package:ecom_app/features/auth/ui/screens/sing-in_screen.dart';
 import 'package:ecom_app/features/auth/ui/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -6,6 +7,8 @@ class AppRoutes{
     late Widget route;
     if(settings.name == SplashScreen.name){
       route = const SplashScreen();
+    }else if (settings.name == SingInScreen.name){
+      route = const SingInScreen();
     }
 
 
