@@ -1,8 +1,20 @@
 {
   "version": "Version",
   "welcomeBack": "Welcome Back",
-  "enteryouremailandpassword": "Enter your email and password",
+  "enterYourEmailAndPassword": "Enter your email and password",
   "email": "Email",
   "password": "Password",
-  "singin": "Sign In"
+  "singIn": "Sign In",
+  "registerYourAccount": "Register Your Account",
+  "getStartedWithYourDetails": "Get Started With Your Details",
+  "singUp": "Sign Up",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "phone": "Phone",
+  "deliveryAddress": "Delivery Address",
+  "dontHaveAnAccount": "Don't have an account",
+  "alreadyHaveAnAccount": "Already have an account",
+  "enterYourOtpCode": "Enter your otp code",
+  "a4DigitOtpCodeHasBeenSent": "A 4 digit otp code has been sent"
+
 }

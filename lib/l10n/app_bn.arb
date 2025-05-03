@@ -1,8 +1,21 @@
 {
   "version": "ভার্সন",
   "welcomeBack": "আবার স্বাগতম",
-  "enteryouremailandpassword": "আপনার ইমেইল এবং পাসওয়ার্ড লিখুন",
+  "enterYourEmailAndPassword": "আপনার ইমেইল এবং পাসওয়ার্ড লিখুন",
   "email": "ইমেইল",
   "password": "পাসওয়ার্ড",
-  "singin": "সাইন ইন"
+  "singIn": "সাইন ইন",
+  "registerYourAccount": "আপনার অ্যাকাউন্ট রেজিস্টার করুন",
+  "getStartedWithYourDetails": "আপনার বিস্তারিত দিয়ে শুরু করুন",
+  "singUp": "সাইন আপ",
+  "firstName": "প্রথম নাম",
+  "lastName": "শেষ নাম",
+  "phone": "ফোন",
+  "deliveryAddress": "ডেলিভারি ঠিকানা",
+  "dontHaveAnAccount" : "আপনার কোনো একাউন্ট নেই",
+  "alreadyHaveAnAccount": "ইতিমধ্যে একটি একাউন্ট আছে",
+  "enterYourOtpCode": "আপনার ওটিপি কোডটি দিন",
+  "a4DigitOtpCodeHasBeenSent": "৪ সংখ্যার একটি ওটিপি কোড পাঠানো হয়েছে"
+
+
 }
