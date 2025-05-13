@@ -15,7 +15,8 @@
   "dontHaveAnAccount" : "আপনার কোনো একাউন্ট নেই",
   "alreadyHaveAnAccount": "ইতিমধ্যে একটি একাউন্ট আছে",
   "enterYourOtpCode": "আপনার ওটিপি কোডটি দিন",
-  "a4DigitOtpCodeHasBeenSent": "৪ সংখ্যার একটি ওটিপি কোড পাঠানো হয়েছে"
+  "a4DigitOtpCodeHasBeenSent": "৪ সংখ্যার একটি ওটিপি কোড পাঠানো হয়েছে",
+   "verify": "যাচাই করুন"
 
 
 }

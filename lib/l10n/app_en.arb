@@ -15,6 +15,6 @@
   "dontHaveAnAccount": "Don't have an account",
   "alreadyHaveAnAccount": "Already have an account",
   "enterYourOtpCode": "Enter your otp code",
-  "a4DigitOtpCodeHasBeenSent": "A 4 digit otp code has been sent"
-
+  "a4DigitOtpCodeHasBeenSent": "A 4 digit otp code has been sent",
+  "verify": "Verify"
 }

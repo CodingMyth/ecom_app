@@ -29,9 +29,7 @@ class _SingUpScreen extends State<SingUpScreen> {
 
   @override
   Widget build(BuildContext context) {
-    final TextTheme textTheme = Theme
-        .of(context)
-        .textTheme;
+    final TextTheme textTheme = Theme.of(context).textTheme;
 
     return Scaffold(
       body: SingleChildScrollView(

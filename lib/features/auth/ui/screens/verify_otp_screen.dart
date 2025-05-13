@@ -60,9 +60,9 @@ class _VerifyOtpScreenState extends State<VerifyOtpScreen> {
                 onPressed: (){
 
                 },
-                child: Text(context.localization.singIn),
+                child: Text(context.localization.verify),
               ),
-              const SizedBox(height: 16),
+              const SizedBox(height: 24),
 
             ],
           ),
@@ -70,4 +70,5 @@ class _VerifyOtpScreenState extends State<VerifyOtpScreen> {
       ),
     );
   }
+
 }
